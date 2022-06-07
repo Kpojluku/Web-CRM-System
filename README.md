@@ -1,7 +1,5 @@
 # Web-CRM-System
 
-spring mvc/hibernate project
-
 Home Page - A List of all current Customers, add button to lead to form page to add new customer
 
 ![image](https://user-images.githubusercontent.com/67160882/172478220-f192da5e-6157-4482-bdfd-dc45e387440b.png)
